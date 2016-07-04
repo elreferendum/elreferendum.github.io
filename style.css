@@ -13,3 +13,7 @@
     margin-bottom: 0px;
 }
 
+button.navbar-toggle {
+    float: left;
+    margin-left: 10px;
+}
